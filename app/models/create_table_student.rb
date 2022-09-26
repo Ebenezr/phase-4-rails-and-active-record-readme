@@ -1,0 +1,2 @@
+class CreateTableStudent < ApplicationRecord
+end
